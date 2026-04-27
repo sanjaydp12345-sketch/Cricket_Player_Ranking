@@ -1,0 +1,101 @@
+Player_Name,Role,Matches,Runs,Outs,Balls_Faced,Wickets,Runs_Conceded,Balls_Bowled,Style,Age,Inns,Fours,Sixes,Century,Half_century,Average,Strike_Rate,Economy
+Rohit Sharma,Batsman,159,4231,132,3004,1,113,68,Right-hand,38,151,383,205,5,32,32.05,140.85,9.97
+Virat Kohli,Batsman,125,4188,86,3034,4,204,152,Right-hand,37,117,369,124,1,38,48.7,138.04,8.05
+Suryakumar Yadav,Batsman,68,2432,56,1450,0,0,0,Right-hand,35,65,215,133,4,20,43.43,167.72,0.0
+Hardik Pandya,All-Rounder,100,1492,60,1063,84,2243,1650,Right-arm Fast,30,81,112,75,0,3,24.87,140.36,8.16
+Jasprit Bumrah,Bowler,70,8,5,10,89,1500,1512,Right-arm Fast,30,8,1,0,0,0,1.6,80.0,5.95
+Ravindra Jadeja,All-Rounder,74,515,24,405,54,1587,1356,Left-hand,35,41,42,16,0,0,21.46,127.16,7.02
+KL Rahul,Batsman,72,2265,60,1628,0,0,0,Right-hand,32,68,191,99,2,22,37.75,139.13,0.0
+Shubman Gill,Batsman,21,578,18,414,0,0,0,Right-hand,24,21,56,21,1,3,32.11,139.61,0.0
+Yashasvi Jaiswal,Batsman,23,723,20,441,0,0,0,Left-hand,24,23,85,38,1,5,36.15,163.95,0.0
+Arshdeep Singh,Bowler,52,35,10,45,79,1432,1050,Left-arm Medium,25,15,3,2,0,0,3.5,77.78,8.18
+Axar Patel,All-Rounder,60,453,24,350,58,1350,1200,Left-hand,30,35,31,21,0,0,18.88,129.43,6.75
+Kuldeep Yadav,Bowler,40,60,5,80,69,890,800,Left-arm Chinaman,29,10,5,1,0,0,12.0,75.0,6.68
+Rishabh Pant,Batsman,74,1158,50,915,0,0,0,Left-hand,28,66,103,42,0,3,23.16,126.56,0.0
+Mohammed Siraj,Bowler,16,10,5,20,14,450,350,Right-arm Fast,30,5,1,0,0,0,2.0,50.0,7.71
+Sanju Samson,Batsman,30,444,23,335,0,0,0,Right-hand,31,26,35,20,0,2,19.3,132.54,0.0
+Rinku Singh,Batsman,23,418,7,237,0,7,6,Left-hand,28,17,31,26,0,2,59.71,176.37,7.0
+Tilak Varma,Batsman,16,336,10,241,2,41,30,Left-hand,23,15,23,15,0,2,33.6,139.42,8.2
+Ruturaj Gaikwad,Batsman,23,633,18,452,0,0,0,Right-hand,27,20,62,22,1,4,35.17,140.04,0.0
+Shivam Dube,All-Rounder,33,448,11,308,11,420,280,Left-hand,32,24,24,31,0,3,40.73,145.45,9.0
+Washington Sundar,All-Rounder,52,161,12,125,47,1150,1020,Left-hand,24,20,15,4,0,1,13.42,128.8,6.76
+Ravi Bishnoi,Bowler,32,20,3,18,48,850,720,Right-arm Legspin,23,6,2,0,0,0,6.67,111.11,7.08
+Deepak Chahar,Bowler,25,53,4,21,31,750,540,Right-arm Medium,31,6,3,4,0,0,13.25,252.38,8.33
+Shardul Thakur,All-Rounder,25,69,3,38,33,780,480,Right-arm Medium,32,6,6,3,0,0,23.0,181.58,9.75
+Ishan Kishan,Batsman,32,796,31,642,0,0,0,Left-hand,25,32,80,36,0,6,25.68,123.99,0.0
+Deepak Hooda,All-Rounder,21,368,12,250,6,120,90,Right-hand,29,18,28,18,1,0,30.67,147.2,8.0
+Venkatesh Iyer,All-Rounder,9,133,4,82,5,105,70,Left-hand,29,7,14,4,0,0,33.25,162.2,9.0
+Bhuvneshwar Kumar,Bowler,87,67,14,75,90,2150,1860,Right-arm Medium,34,18,5,1,0,0,4.79,89.33,6.94
+Yuzvendra Chahal,Bowler,80,6,4,15,96,2350,1740,Right-arm Legspin,33,6,0,0,0,0,1.5,40.0,8.1
+Shreyas Iyer,Batsman,51,1104,36,811,0,0,0,Right-hand,29,48,88,42,0,8,30.67,136.13,0.0
+Dinesh Karthik,Batsman,60,686,26,482,0,0,0,Right-hand,38,48,72,28,0,1,26.38,142.32,0.0
+Shikhar Dhawan,Batsman,68,1759,63,1389,0,0,0,Left-hand,38,66,191,50,0,11,27.92,126.64,0.0
+Manish Pandey,Batsman,39,709,16,562,0,0,0,Right-hand,34,33,55,18,0,3,44.31,126.16,0.0
+Suresh Raina,Batsman,78,1605,55,1190,13,450,360,Left-hand,37,66,145,58,1,5,29.18,134.87,7.5
+MS Dhoni,Batsman,98,1617,43,1282,0,0,0,Right-hand,42,85,116,52,0,2,37.6,126.13,0.0
+Yuvraj Singh,All-Rounder,58,1177,42,863,28,650,540,Left-hand,42,51,77,74,0,8,28.02,136.38,7.22
+Gautam Gambhir,Batsman,37,932,34,783,0,0,0,Left-hand,42,36,109,10,0,7,27.41,119.03,0.0
+Harbhajan Singh,Bowler,28,108,8,80,25,620,612,Right-arm Offspin,43,13,9,5,0,0,13.5,135.0,6.08
+Zaheer Khan,Bowler,17,13,4,20,17,450,380,Left-arm Fast,45,4,1,1,0,0,3.25,65.0,7.11
+Irfan Pathan,All-Rounder,24,172,7,144,28,620,510,Left-hand,39,14,13,7,0,0,24.57,119.44,7.29
+Robin Uthappa,Batsman,13,249,10,211,0,0,0,Right-hand,38,12,26,6,0,1,24.9,118.01,0.0
+Yusuf Pathan,All-Rounder,22,236,13,161,13,350,300,Right-hand,41,18,15,17,0,0,18.15,146.58,7.0
+Ashish Nehra,Bowler,27,28,6,45,34,780,600,Left-arm Fast,44,5,2,1,0,0,4.67,62.22,7.8
+Varun Chakravarthy,Bowler,6,0,2,2,2,150,138,Right-arm Legspin,32,1,0,0,0,0,0.0,0.0,6.52
+Prasidh Krishna,Bowler,5,0,0,0,8,180,120,Right-arm Fast,28,0,0,0,0,0,0.0,0.0,9.0
+Avesh Khan,Bowler,23,45,4,35,25,680,480,Right-arm Fast,27,6,4,1,0,0,11.25,128.57,8.5
+Umran Malik,Bowler,8,5,2,10,11,280,160,Right-arm Fast,24,3,1,0,0,0,2.5,50.0,10.5
+Mukesh Kumar,Bowler,14,0,0,0,12,410,290,Right-arm Medium,30,0,0,0,0,0,0.0,0.0,8.48
+Jitesh Sharma,Batsman,9,100,7,68,0,0,0,Right-hand,30,7,9,5,0,0,14.29,147.06,0.0
+Dhruv Jurel,Batsman,2,6,0,3,0,0,0,Right-hand,23,1,1,0,0,0,6.0,200.0,0.0
+Abhishek Sharma,Batsman,5,124,4,71,2,35,24,Left-hand,23,5,10,9,1,0,31.0,174.65,8.75
+Riyan Parag,All-Rounder,6,57,4,52,3,85,66,Right-hand,22,4,4,3,0,0,14.25,109.62,7.73
+Sai Sudharsan,Batsman,1,0,0,0,0,0,0,Left-hand,22,0,0,0,0,0,0.0,0.0,0.0
+T. Natarajan,Bowler,4,0,0,0,7,120,96,Left-arm Medium,33,0,0,0,0,0,0.0,0.0,7.5
+Rahul Chahar,Bowler,6,5,1,10,7,160,144,Right-arm Legspin,24,1,0,0,0,0,5.0,50.0,6.67
+Sandeep Sharma,Bowler,2,0,0,0,1,70,48,Right-arm Medium,30,0,0,0,0,0,0.0,0.0,8.75
+Amit Mishra,Bowler,10,0,0,0,16,240,234,Right-arm Legspin,41,0,0,0,0,0,0.0,0.0,6.15
+Piyush Chawla,Bowler,7,0,0,0,4,180,150,Right-arm Legspin,35,0,0,0,0,0,0.0,0.0,7.2
+Murali Vijay,Batsman,9,169,9,154,0,0,0,Right-hand,40,9,14,7,0,0,18.78,109.74,0.0
+Ajinkya Rahane,Batsman,20,375,18,330,0,0,0,Right-hand,35,20,45,4,0,1,20.83,113.64,0.0
+Kedar Jadhav,All-Rounder,9,122,6,100,0,0,0,Right-hand,39,6,11,3,0,1,20.33,122.0,0.0
+Ambati Rayudu,Batsman,6,42,4,50,0,0,0,Right-hand,38,5,2,1,0,0,10.5,84.0,0.0
+Stuart Binny,All-Rounder,3,35,2,26,1,50,30,Right-hand,39,2,1,3,0,0,17.5,134.62,10.0
+Mohit Sharma,Bowler,8,0,0,0,6,190,150,Right-arm Medium,35,0,0,0,0,0,0.0,0.0,7.6
+Umesh Yadav,Bowler,9,0,0,0,12,280,198,Right-arm Fast,36,0,0,0,0,0,0.0,0.0,8.48
+Navdeep Saini,Bowler,11,12,1,10,13,310,240,Right-arm Fast,31,3,1,1,0,0,12.0,120.0,7.75
+Sameer Rizvi,Batsman,5,160,1,98,0,0,0,Right-hand,22,2,12,11,0,2,160.0,163.27,0.0
+Devdutt Padikkal,Batsman,12,280,10,220,0,0,0,Left-hand,25,10,32,8,0,2,28.0,127.27,0.0
+Nitish Kumar Reddy,All-Rounder,8,145,5,110,4,120,84,Right-hand,22,6,14,9,0,1,29.0,131.82,8.57
+Angkrish Raghuvanshi,Batsman,4,110,2,65,0,0,0,Right-hand,21,3,12,4,0,2,55.0,169.23,0.0
+Sarfaraz Khan,Batsman,3,99,3,49,0,0,0,Right-hand,28,3,16,4,0,1,33.0,202.04,0.0
+Vaibhav Sooryavanshi,Batsman,2,83,2,35,0,0,0,Left-hand,15,2,9,6,0,1,41.5,237.14,0.0
+Harshit Rana,Bowler,4,15,2,10,6,115,84,Right-arm Fast,24,2,2,0,0,0,7.5,150.0,8.21
+Mayank Yadav,Bowler,3,0,0,0,7,85,72,Right-arm Fast,23,0,0,0,0,0,0.0,0.0,7.08
+Tushar Deshpande,Bowler,2,5,1,4,3,68,48,Right-arm Medium,30,1,1,0,0,0,5.0,125.0,8.5
+Khaleel Ahmed,Bowler,18,5,2,12,19,520,384,Left-arm Fast,28,4,0,0,0,0,2.5,41.67,8.12
+Sandeep Warrier,Bowler,1,0,0,0,0,28,18,Right-arm Medium,35,0,0,0,0,0,0.0,0.0,9.33
+Chetan Sakariya,Bowler,2,0,0,0,1,62,48,Left-arm Medium,28,0,0,0,0,0,0.0,0.0,7.75
+Ishan Porel,Bowler,1,0,0,0,0,35,24,Right-arm Medium,27,0,0,0,0,0,0.0,0.0,8.75
+Simarjeet Singh,Bowler,2,0,0,0,1,55,36,Right-arm Medium,27,0,0,0,0,0,0.0,0.0,9.17
+Mohsin Khan,Bowler,3,0,0,0,4,88,72,Left-arm Fast,27,0,0,0,0,0,0.0,0.0,7.33
+Yash Dayal,Bowler,2,0,0,0,2,60,48,Left-arm Medium,28,0,0,0,0,0,0.0,0.0,7.5
+Shahbaz Ahmed,All-Rounder,3,25,2,20,2,65,48,Left-hand,31,2,2,1,0,0,12.5,125.0,8.12
+Rahul Tripathi,Batsman,5,157,5,110,0,0,0,Right-hand,35,5,18,6,0,0,31.4,142.73,0.0
+Prithvi Shaw,Batsman,1,0,1,1,0,0,0,Right-hand,26,1,0,0,0,0,0.0,0.0,0.0
+Karun Nair,Batsman,2,45,2,38,0,0,0,Right-hand,34,2,5,1,0,0,22.5,118.42,0.0
+Mandeep Singh,Batsman,3,87,1,72,0,0,0,Right-hand,34,3,10,1,0,1,87.0,120.83,0.0
+Parvez Rasool,All-Rounder,1,5,1,4,1,32,24,Right-hand,37,1,1,0,0,0,5.0,125.0,8.0
+Pawan Negi,All-Rounder,1,0,0,0,1,16,18,Left-hand,33,0,0,0,0,0,0.0,0.0,5.33
+Rishi Dhawan,All-Rounder,1,1,1,2,0,42,24,Right-hand,36,1,0,0,0,0,1.0,50.0,10.5
+Gurkeerat Singh,All-Rounder,3,15,2,18,0,0,0,Right-hand,35,3,2,0,0,0,7.5,83.33,0.0
+Srinivas Aragala,Batsman,2,12,2,15,0,0,0,Right-hand,24,2,1,0,0,0,6.0,80.0,0.0
+Sayan Mondal,All-Rounder,1,8,1,10,0,12,6,Left-hand,26,1,1,0,0,0,8.0,80.0,12.0
+Karn Sharma,Bowler,1,1,0,2,1,28,24,Right-arm Legspin,38,1,0,0,0,0,1.0,50.0,7.0
+Parvinder Awana,Bowler,2,0,0,0,0,71,36,Right-arm Medium,39,0,0,0,0,0,0.0,0.0,11.83
+Manpreet Gony,Bowler,2,0,0,0,0,56,48,Right-arm Medium,42,0,0,0,0,0,0.0,0.0,7.0
+S. Tyagi,Bowler,1,0,0,0,0,21,12,Right-arm Medium,38,0,0,0,0,0,0.0,0.0,10.5
+Abhimanyu Mithun,Bowler,1,0,0,0,0,25,18,Right-arm Medium,36,0,0,0,0,0,0.0,0.0,8.33
+Vinay Kumar,Bowler,9,2,2,5,10,245,186,Right-arm Medium,42,3,0,0,0,0,1.0,40.0,7.9
+Ashok Dinda,Bowler,9,22,1,15,17,260,180,Right-arm Medium,42,2,3,0,0,0,22.0,146.67,8.67
+Ajit Agarkar,Bowler,4,15,2,12,3,94,63,Right-arm Medium,48,2,1,1,0,0,7.5,125.0,8.95
